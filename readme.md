@@ -11,7 +11,6 @@ Página de Portifólio
 <div align="center" >
 <hr />
   <h2>Sobre o Desafio:</h2> Construir um site completo de portifólio.
-<hr />
 </div>
 
 <div align="center">
@@ -25,7 +24,6 @@ Na página, quando o usuário clica em um dos videos do portifólio, um modal de
 </div>
 
 ## Tecnologias 🚀
-<hr />
 
 - ✔️ JavaScript
 
