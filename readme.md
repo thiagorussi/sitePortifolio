@@ -10,8 +10,7 @@ Página de Portifólio
 
 <div align="center" >
 <hr />
-Sobre o Desafio rocket
-construir um site completo para uma empresa de receitas chamada Foodfy.
+Sobre o Desafio: Construir um site completo de portifólio.
 <hr />
 </div>
 
