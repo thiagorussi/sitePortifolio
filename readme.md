@@ -18,12 +18,13 @@ Sobre o Desafio: Construir um site completo de portifólio.
   <img alt="desafio" src="./assets/gifPO.gif" width="100%">
 </div>
 
-
+<div align="center">
 <hr />
 Na página, quando o usuário clica em um dos videos do portifólio, um modal deve aparecer em tela contendo as mesmas informações ddo video que ele clicou.
 <hr />
 </div>
-## 🚀 Tecnologias
+
+##🚀 Tecnologias
 <hr />
 
 - ✔️ JavaScript
