@@ -11,6 +11,7 @@ Página de Portifólio
 <div align="center" >
 <hr />
   <h2>Sobre o Desafio:</h2> Construir um site completo de portifólio.
+<hr />
 </div>
 
 <div align="center">
@@ -19,7 +20,7 @@ Página de Portifólio
 
 <div align="center">
 <hr />
-Na página, quando o usuário clica em um dos videos do portifólio, um modal deve aparecer em tela contendo as mesmas informações ddo video que ele clicou.
+Na página, quando o usuário clica em um dos videos do portifólio, um modal deve aparecer em tela contendo as mesmas informações do video que ele clicou.
 <hr />
 </div>
 
