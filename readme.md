@@ -24,7 +24,7 @@ Na página, quando o usuário clica em um dos videos do portifólio, um modal de
 <hr />
 </div>
 
-## 🚀Tecnologias
+## Tecnologias 🚀
 <hr />
 
 - ✔️ JavaScript
